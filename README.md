@@ -17,7 +17,7 @@ This project is tailored for AtliQ Tees, a T-shirt store managing inventory, sal
 - main.py: The main Streamlit application script.
 - llm_helper.py: This has the langchain framework code
 - db_helper.py: This has the MySQL database connection code
-- prompt_engineering: This file handles the promt cretion for the LLM
+- prompt_engineering.py: This file handles the promt cretion for the LLM
 - requirements.txt: A list of required Python packages for the project.
 - few_shots.py: Contains few shot prompts
 - .env: Configuration file for storing your Google API key.
